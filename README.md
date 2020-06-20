@@ -7,5 +7,15 @@ Each point includes a quick description that makes the choice easy for anyone, t
   - pros
   - cons
   - complexity (+ = beginner,++ = specific, +++ = expert)
+  - use-case
   
+ ## Drawing
  
+ ### excalidraw
+ 
+ - theme: graphical
+ - pros: easy to use, nice results (sketch-like)
+ - cons: online
+ - use-cases : simple diagram for your presentation
+ 
+ Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
