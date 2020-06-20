@@ -9,6 +9,8 @@ Each point includes a quick description that makes the choice easy for anyone, t
   - complexity (+ = beginner,++ = specific, +++ = expert)
   - use-case
   
+ **One rule to add a tool : you must use it ;)**
+ 
  ## Drawing
  
  ### excalidraw
