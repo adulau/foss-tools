@@ -9,7 +9,7 @@ Each point includes a quick description that makes the choice easy for anyone, t
   - complexity (+ = beginner,++ = specific, +++ = expert)
   - use-case
   
- **One rule to add a tool : you must use it ;)**
+ :straight_ruler: **One rule to add a tool : you must use it ;)**
  
  ## Drawing
  
@@ -18,6 +18,7 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - theme: graphical
  - pros: easy to use, nice results (sketch-like)
  - cons: online
+ - complexity: +
  - use-cases : simple diagram for your presentation
  
  Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
