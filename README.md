@@ -22,3 +22,15 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - use-cases : simple diagram for your presentation
  
  Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
+ 
+ ## Mail encryption
+ 
+ ### Enigmail (Thunderbird add-on)
+ 
+ - theme : encryption
+ - pros : easy to use, graphical
+ - cons : default setups
+ - complexity: +
+ - use-cases : encrypt and read emails with OpenPGP
+ 
+ Online: https://enigmail.net/index.php/en/ code: https://enigmail.net/index.php/en/download/source-code
