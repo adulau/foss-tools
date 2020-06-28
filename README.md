@@ -19,9 +19,19 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - pros: easy to use, nice results (sketch-like)
  - cons: online
  - complexity: +
- - use-cases : simple diagram for your presentation
+ - use-cases: simple diagram for your presentation
  
  Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
+ 
+ ## Photo editing
+ 
+ - theme: graphical
+ - pros: efficient, work with camera raw files, a lot of postprocessing filters
+ - cons: a bit complex to grasp
+ - complexity: ++
+ - use-cases: Post-processing of photos
+ 
+ Open source source: https://www.darktable.org/
  
  ## Mail encryption
  
