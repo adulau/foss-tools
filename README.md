@@ -25,6 +25,8 @@ Each point includes a quick description that makes the choice easy for anyone, t
  
  ## Photo editing
  
+ ### Darktable
+ 
  - theme: graphical
  - pros: efficient, work with camera raw files, a lot of postprocessing filters
  - cons: a bit complex to grasp
@@ -32,6 +34,19 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - use-cases: Post-processing of photos
  
  Open source source: https://www.darktable.org/
+ 
+ ## Video editing
+ 
+ ### Shotcut
+ 
+ - theme: graphical
+ - pros: simple, easy to use for cutting and apply simple filter on the videos, adding audio tracks
+ - cons: lack some more advanced features
+ - complexity: +
+ - use-cases: Cutting video, improve brightness or adding an audio track
+ 
+ Open source source: https://shotcut.org/
+ 
  
  ## Mail encryption
  
