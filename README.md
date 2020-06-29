@@ -1,4 +1,4 @@
-# day-to-day-open-source-tools
+# day-to-day-FOSS-tools
 
 Curated list of tools to use everyday.
 
